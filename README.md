@@ -1,10 +1,7 @@
-
+# Hi there, I'm
 <p align="center">
   <img width="419" height="80" alt="carlyjaz" src="https://github.com/user-attachments/assets/41cd680d-36f4-4aa6-97e8-2eb590563593" />
 </p>
-
-# Hi there, I'm **Carly Jazwin**! 👋
-
 
 Welcome to my GitHub! I build things at the intersection of **software engineering** and **AI/ML**—from embedded/low-level work to GPU-accelerated computer vision research. Below is a quick snapshot of what I work on and what I use.
 
